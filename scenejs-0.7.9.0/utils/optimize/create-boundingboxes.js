@@ -1,2 +1,0 @@
-if(!SceneJS.utils){SceneJS.utils={};}if(!SceneJS.utils.optimize){SceneJS.utils.optimize={};}SceneJS.utils.optimize.CreateBoundingBoxes=function(cfg){this._cfg=cfg;};SceneJS.utils.optimize.CreateBoundingBoxes.prototype.execute=function(params,completed){if(completed){completed(this);}return this;};SceneJS.utils.optimize.CreateBoundingBoxes.prototype.setConfigs=function(cfg){};
-SceneJS.utils.optimize.CreateBoundingBoxes.prototype.getResults=function(){return{};};

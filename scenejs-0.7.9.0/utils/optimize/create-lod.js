@@ -1,2 +1,0 @@
-if(!SceneJS.utils){SceneJS.utils={};}if(!SceneJS.utils.optimize){SceneJS.utils.optimize={};}SceneJS.utils.optimize.CreateLOD=function(cfg){this._cfg=cfg;};SceneJS.utils.optimize.CreateLOD.prototype.execute=function(params,completed){if(completed){completed(this);}return this;};SceneJS.utils.optimize.CreateLOD.prototype.setConfigs=function(cfg){};
-SceneJS.utils.optimize.CreateLOD.prototype.getResults=function(){return{};};
